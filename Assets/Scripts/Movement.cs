@@ -4,7 +4,7 @@ using UnityEngine;
 public class Movement : MonoBehaviour
 {
     public float speed = 8f;
-    public float speedMultiplier = 1f;
+    public float speedMultiplier = 1.5f;
     public Vector2 initialDirection;
     public LayerMask obstacleLayer;
 
